@@ -1,4 +1,7 @@
 Futurize your enteprise (David Siegel)
+<<<<<<< HEAD
+Mikkel
+=======
 
 <<<<<<< HEAD
 Benjamin
