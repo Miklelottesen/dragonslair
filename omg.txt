@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Futurize your enteprise (David Siegel)
 <<<<<<< HEAD
 Mikkel
@@ -9,3 +10,6 @@ Benjamin
 
 Alexandra
 >>>>>>> origin/master
+=======
+alex
+>>>>>>> Stashed changes
