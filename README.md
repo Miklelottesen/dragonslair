@@ -5,28 +5,11 @@ Exam project 2.2, business academy Aarhus
 
 ===========
 
-How to use:
-
-Open XAMPP, start the Apache server AND the mysql server.
-In a browser, go to http://localhost/phpmyadmin (login if you've set a username and password previously).
-Change the language to English.
-
-If you already created a database named "wp", skip this paragraph.
-If not, click on Databases in the top navigation menu.
-Under Create database, write wp as the name and click Create.
-
-In the sidebar menu on the left, click on "wp".
-If any tables are present, scroll to the very bottom. Under the list of tables, click "Check all" and from the dropdown choose "Dump".
-Click Yes.
-In the top navigation bar in the main section, click Import.
-Click the button next to "Browse your computer" and select wp.sql from the project's root folder (same folder as this file).
-On the bottom of the page, click "Go". It's gonna take a while...
-
 Guidelines: 
 
-Head of interaction (Mikkel) works on the project, like, all the time. So whenever you need to work on any of these files, or add new files, remember to go to the Github app and sync.
+Head of interaction (Mikkel) works on the project, like, all the time. So whenever you need to work on any of these files, or add new files, remember to go to the Github app and sync first!!!!
 
-If you're changing/replacing/editing a file, please inform Mikkel first. If you're adding new files, knock yourself out!
+If you're changing/replacing/editing/adding a file, please inform Mikkel first.
 
 When commiting changes, ALWAYS write an informative summary (if necessary, description) of what you did/added/changed/etc!
 
