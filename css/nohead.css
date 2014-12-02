@@ -1,3 +1,9 @@
+/**************************************************
+Removes the top-margin created by WordPress. 
+Only CSS value to be loaded after the script files;
+the top-margin is added by the Wordpress scripts.
+**************************************************/
+
 html {
 	margin-top: 0px !important;
 }

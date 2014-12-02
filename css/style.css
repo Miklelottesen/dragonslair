@@ -1,3 +1,10 @@
+/******************************************
+'Sticky Footer' by Ryan Fait
+Sticks the footer to the bottom, if there's 
+not enough content to fill out the page.
+http://ryanfait.com/
+******************************************/
+
 * {
 	margin: 0;
 }
@@ -6,29 +13,53 @@ html, body {
 }
 #wrapper {
 	min-height: 100%;
-	height: auto !important; /* This line and the next line are not necessary unless you need IE6 support */
+	height: auto !important; 
 	height: 100%;
-	margin: 0 auto -5.4em; /* the bottom margin is the negative value of the footer's height */
+		/* The two lines above are for IE6 support */
+	margin: 0 auto -5.4em; 
 }
 footer, #push {
 	clear: both;
 	height: 4em; /* #push must be the same height as footer */
 }
 
-/*
-The above code is 'Sticky Footer' by Ryan Fait
-http://ryanfait.com/
-*/
-
 /***********************
 Own styling begins here:
 ***********************/
+
+/*
+Dummy values
+Delete this section!
+*/
 
 footer {
 	background-color: #aaaaaa;
 }
 
 .current-menu-item, .current-page-ancestor {
-	background-color: #aaaaaa;
+	background-color: #aaaaaa; /* Background colors for active links (WP classes) */
 }
 
+/*******
+General:
+*******/
+
+/******
+Header:
+******/
+
+/**********
+Navigation:
+**********/
+
+/*******
+Sidebar:
+*******/
+
+/*******
+Content:
+*******/
+
+/******
+Footer:
+******/
