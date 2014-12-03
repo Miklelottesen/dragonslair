@@ -5,6 +5,7 @@
 	 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"><!-- Bootstrap css file -->
 	 <link rel="stylesheet" type="text/css" href="css/style.css"><!-- Own css file -->
 	 <link rel="shortcut icon" href="/favicons/favicon.ico" type="image/x-icon" />
+	 <meta name="viewport" content="width=device-width, initial-scale=1">
 	 <script src="js/jquery-2.1.1.min.js"></script><!-- jQuery -->
 	 <script src="js/bootstrap.min.js"></script><!-- Bootstrap js file -->
 
