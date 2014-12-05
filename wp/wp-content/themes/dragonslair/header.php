@@ -5,7 +5,7 @@
 	 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"><!-- Bootstrap css file -->
 	 <link rel="stylesheet" type="text/css" href="css/style.css"><!-- Own css file -->
 	 <link rel="shortcut icon" href="/favicons/favicon.ico" type="image/x-icon" />
-	 <meta name="viewport" content="width=device-width, initial-scale=1, use-scalable=no">
+	 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 	 <script src="js/jquery-2.1.1.min.js"></script><!-- jQuery -->
 	 <script src="js/bootstrap.min.js"></script><!-- Bootstrap js file -->
 		<!-- As this php file is ultimately shown in root://index.php, all paths are relative to the root -->
