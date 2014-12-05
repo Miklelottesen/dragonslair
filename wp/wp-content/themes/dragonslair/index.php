@@ -6,8 +6,8 @@
 	
 		<?php 
 			if ( isset ( $_GET['page_id'] ) ){
-				get_sidebar(); //sidebar.php
-				//Display sidebar on any other page than Home (which has no page_id)
+				get_sidebar(); // sidebar.php
+				// Display sidebar on any other page than Home (which has no page_id)
 			}
 		?>
 	
@@ -25,8 +25,8 @@
 		<section id="push"></section><!-- Part of 'Sticky Footer' (see root://css/style.css) -->
 	</section>
 
-	<?php include 'footer.php'; ?>
+	<?php 
+		get_footer(); 
+			// footer.php
+	?>
 	
-</body>
-<script src="js/content-width.js"></script>
-</html>
