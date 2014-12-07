@@ -5,22 +5,15 @@ not enough content to fill out the page.
 http://ryanfait.com/
 ******************************************/
 
-* {
-	margin: 0;
-}
-html, body {
-	height: 100%;
-}
 #wrapper {
+	display: block;
 	min-height: 100%;
-	height: auto !important; 
-	height: 100%;
-		/* The two lines above are for IE6 support */
-	margin: 0 auto -5.4em; 
 }
-footer, #push {
-	clear: both;
-	height: 4em; /* #push must be the same height as footer */
+#push {
+	display: none;
+}
+footer {
+	width: 100%;
 }
 
 /***********************
