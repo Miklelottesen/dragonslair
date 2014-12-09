@@ -2,6 +2,11 @@
 Own styling begins here:
 ***********************/
 
+
+
+
+
+
 /*
 Dummy values
 Delete this section!
@@ -12,12 +17,22 @@ footer {
 }
 
 .current-menu-item, .current-page-ancestor {
-	background-color: #aaaaaa; /* Background colors for active links (WP classes) */
+	height: 66px
+	background-color: #000; /* Background colors for active links (WP classes) */
 }
 
 /*******
 General:
 *******/
+/* Loading Google fonts Marcellus, Roboto */
+@import url(http://fonts.googleapis.com/css?family=Marcellus+SC);
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+
 ul.nav li.dropdown:hover > ul.dropdown-menu {
 	display: block;
 }
@@ -34,6 +49,13 @@ Header:
 Navigation:
 **********/
 
+.navbar-inverse {
+	background-color: #181818;
+	height: 66px;
+}
+nav a {
+	font-family: 'Marcellus SC', serif;
+}
 /*******
 Sidebar:
 *******/
