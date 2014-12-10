@@ -18,7 +18,7 @@
 /** The name of the database for WordPress */
 
 
-define('DB_NAME', 'wp_dragonslair');
+define('DB_NAME', 'bonerifi_wobbawobba');
 
 /** MySQL database username */
 define('DB_USER', 'bonerifi_usr');
