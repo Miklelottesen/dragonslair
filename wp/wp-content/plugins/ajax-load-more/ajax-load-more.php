@@ -63,7 +63,7 @@ if( !class_exists('AjaxLoadMore') ):
 		add_action('wp_ajax_ajax_load_more_init', array(&$this, 'alm_query_posts'));
 		add_action('wp_ajax_nopriv_ajax_load_more_init', array(&$this, 'alm_query_posts'));
 		add_action('wp_enqueue_scripts', array(&$this, 'alm_enqueue_scripts'));		
-		add_action('alm_get_repeater', array(&$this, 'alm_get_current_repeater'));		
+		add_action('alm_get_repeater', array(&$this, 'alm_get_current_repeater'));	
 		add_filter( 'plugin_action_links_' . plugin_basename(__FILE__), array(&$this, 'alm_action_links'));
 
 		add_shortcode('ajax_load_more', array(&$this, 'alm_shortcode'));		
@@ -391,8 +391,13 @@ if( !class_exists('AjaxLoadMore') ):
 			}
 			// Default repeater
 			else
-			{				
-				$include = plugin_dir_path( __FILE__ ) . 'core/repeater/default.php';
+			{	
+				if ( isset ( $hijackRepeater )){
+					$repeaterName = $hijackRepeater;
+				} else {
+					$repeaterName = 'default';
+				}
+				$include = plugin_dir_path( __FILE__ ) . 'core/repeater/'.$repeaterName.'.php';
 			}				
 			
 			// Get page number and current item in overall loop				

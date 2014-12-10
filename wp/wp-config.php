@@ -18,16 +18,16 @@
 /** The name of the database for WordPress */
 
 
-define('DB_NAME', 'dragonslair');
+define('DB_NAME', 'wp_dragonslair');
 
 /** MySQL database username */
-define('DB_USER', 'teamcandy');
+define('DB_USER', 'bonerifi_usr');
 
 /** MySQL database password */
-define('DB_PASSWORD', '123456');
+define('DB_PASSWORD', 'rLDMh4qo');
 
 /** MySQL hostname */
-define('DB_HOST', 'db4free.net');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
