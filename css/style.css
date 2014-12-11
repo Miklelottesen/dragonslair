@@ -57,7 +57,7 @@ Navigation:
 
 .navbar-inverse {
 	background-color: #181818;
-	height: 66px;
+	/*height: 66px;*/
 }
 nav a {
 	font-family: 'Marcellus SC', serif;
