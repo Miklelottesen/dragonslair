@@ -43,8 +43,8 @@ p {
 
 .postThumbnail {
 	/* The size for thumbnail fallback images */
-	height: 500px;
-	width: auto;
+	width: 500px;
+	height: auto;
 }
 
 /******
