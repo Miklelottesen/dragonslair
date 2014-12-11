@@ -41,6 +41,12 @@ p {
 	text-align: justify;
 }
 
+.postThumbnail {
+	/* The size for thumbnail fallback images */
+	height: 500px;
+	width: auto;
+}
+
 /******
 Header:
 ******/
