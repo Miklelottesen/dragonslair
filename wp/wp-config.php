@@ -27,7 +27,7 @@ define('DB_USER', 'bonerifi_usr');
 define('DB_PASSWORD', 'rLDMh4qo');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '79.98.29.33');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
