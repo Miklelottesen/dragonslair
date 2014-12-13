@@ -22,7 +22,6 @@
 	<header>
 		<!-- Header: -->
 		<?php
-			echo 'Dickflap';
 			include 'wp/wp-content/themes/dragonslair/nav.php'; 
 				// The navbar with logo and search field
 		?>
