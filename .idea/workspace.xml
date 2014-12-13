@@ -2,7 +2,375 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c45a08d-946b-4c40-888c-83c81d2232d1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp/wp-content/themes/dragonslair/header.php" afterPath="$PROJECT_DIR$/wp/wp-content/themes/dragonslair/header.php" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\404.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\README.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\archive.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\comments.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\content-search.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\content.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\css\layout.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\css\layout.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\css\mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\custom.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\footer.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\admin-backup.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\admin-custom-nav.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\admin-custom.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\admin-express-functions-deprecated.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\admin-express-functions.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\admin-framework-settings.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\admin-functions.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\admin-hooks.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\admin-init.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\admin-interface.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\admin-medialibrary-uploader.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\admin-sbm.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\admin-seo.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\admin-setup.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\admin-shortcode-generator.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\admin-shortcodes.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\admin-style.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\admin-tumblog-quickpress.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\css\activation.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\css\activation.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\css\admin.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\css\admin.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\css\fields.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\css\fields.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\css\lib\chosen.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\css\lib\chosen.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\css\menu.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\css\menu.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\css\mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\fonts\wooframework.eot" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\fonts\wooframework.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\fonts\wooframework.ttf" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\fonts\wooframework.woff" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\images\icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\images\lib\chosen-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\images\lib\chosen-sprite@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\images\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\images\placeholder.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\images\ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\images\ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\images\ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\images\ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\images\ui-bg_glass_75_dadada_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\images\ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\images\ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\images\ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\js\chosen-selectors.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\js\colourpickers.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\js\datepickers.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\js\image-selectors.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\js\lib\jquery-chosen-rtl.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\js\lib\jquery-chosen-rtl.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\js\lib\jquery-chosen.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\js\lib\jquery-chosen.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\js\lib\jquery-masked-input.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\js\masked-inputs.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\js\range-selectors.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\js\typography-preview.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\js\typography.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\assets\js\uploaders.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\classes\class-wf-backup.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\classes\class-wf-fields-meta.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\classes\class-wf-fields-settings.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\classes\class-wf-fields.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\classes\class-wf-meta.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\classes\class-wf-screen-admin-base.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\classes\class-wf-screen-framework.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\classes\class-wf-screen-welcome.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\classes\class-wf-screen.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\classes\class-wf-settings.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\classes\class-wf.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\classes\class-wp-app-store-installer.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\css\colorpicker.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\css\jquery-ui-datepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\css\shortcode-generator.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\css\shortcode-icon.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\css\shortcodes.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\css\tumblog.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\css\woo-custom-fields.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\deprecated.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\functions-changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\1c.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\2cl.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\2cr.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\3cl.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\3cm.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\3cr.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\btn-tumblog-audio.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\btn-tumblog-image.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\btn-tumblog-link.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\btn-tumblog-note.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\btn-tumblog-quote.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\btn-tumblog-video.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\calendar.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\colorpicker\blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\colorpicker\colorpicker_background.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\colorpicker\colorpicker_hex.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\colorpicker\colorpicker_hsb_b.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\colorpicker\colorpicker_hsb_h.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\colorpicker\colorpicker_hsb_s.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\colorpicker\colorpicker_indic.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\colorpicker\colorpicker_overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\colorpicker\colorpicker_rgb_b.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\colorpicker\colorpicker_rgb_g.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\colorpicker\colorpicker_rgb_r.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\colorpicker\colorpicker_select.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\colorpicker\colorpicker_submit.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\colorpicker\select.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\footer-widgets-0.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\footer-widgets-1.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\footer-widgets-2.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\footer-widgets-3.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\footer-widgets-4.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\gray-grad.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\happy.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\headertile.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\headingtop.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-add.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-alert.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-changelog.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-close.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-delete.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-docs.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-dojo-banner-close.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-dojo-banner.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-download.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-edit.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-forum.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-info.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-note.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-preview.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-social-delicious.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-social-facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-social-flickr.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-social-googleplus.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-social-linkedin.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-social-rss.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-social-twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-social-youtube.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-tick.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ico-viewpage.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\icon-32.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\info.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\layout-off.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\loading-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\loading-top.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\menu-arrow-frame.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\menu-shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\nicEditorIcons.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-ads.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-audio.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-box.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-calendar.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-cart.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-connect.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-favorite.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-featured.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-footer.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-general.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-header.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-homepage.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-image.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-layout.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-listing.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-main.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-maps.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-media.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-misc.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-nav.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-portfolio.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-post.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-search.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-sidebar.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-slider.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-styling.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-tumblog.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-typography.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-upload.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\option-icon-woocommerce.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\quote.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\select.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\shortcode-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\shortcode-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\shortcode-green-dot.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\shortcode-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\shortcode-red-x.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\shortcode-star.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\shortcode-tick.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\shortcode-toggle-close.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\shortcode-toggle-open.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ui-bg_glass_75_dadada_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ui-icons_2e83ff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ui-icons_454545_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ui-icons_888888_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\ui-icons_cd0a0a_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\warning.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\wf-tab-icons.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\images\woo-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\ajaxupload.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\colorpicker.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\jquery.maskedinput.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\nicEdit.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\php.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\dialog.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\editor_plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\editor_plugin_39.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\js\column-control.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\js\dialog-js.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\js\tab-control.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\preview-shortcode-external.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\abbr.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\box.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\button.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\column.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\contactform.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\digg.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\fblike.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\fbshare.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\google_plusone.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\ilink.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\linkedin_share.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\ordered_list.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\pinterest.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\quote.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\related.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\social_icon.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\stumbleupon.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\tab.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\toggle.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\tweetmeme.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\twitter.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\twitter_follow.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\typography.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcode-generator\shortcodes\unordered_list.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\shortcodes.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\tumblog-ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\ui.datepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\woo-admin-interface.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\woo-custom-fields.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\woo-medialibrary-uploader.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\woo-scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\js\woo-typography-preview.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\functions\thumb.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\header.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\images\blockquote.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\images\ico-rss.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\images\ico-search.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\images\ico-star-small.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\images\ico-star.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\images\ico-subscribe-social.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\images\ico-tag.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\images\icons\black-dot.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\images\icons\blue-dot.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\images\icons\green-dot.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\images\icons\pink-dot.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\images\icons\purple-dot.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\images\icons\red-dot.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\images\icons\shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\images\icons\teal-dot.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\images\icons\white-dot.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\images\icons\yellow-dot.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\images\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\images\woothemes.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\css\prettyPhoto.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\images\prettyPhoto\default\default_thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\images\prettyPhoto\default\loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\images\prettyPhoto\default\sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\images\prettyPhoto\default\sprite_next.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\images\prettyPhoto\default\sprite_prev.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\images\prettyPhoto\default\sprite_x.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\images\prettyPhoto\default\sprite_y.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\integrations\sensei\css\sensei.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\integrations\sensei\css\sensei.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\integrations\sensei\functions.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\integrations\sensei\index.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\integrations\sensei\setup.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\integrations\sensei\template.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\js\enable-lightbox.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\js\general.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\js\jquery.prettyPhoto.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\js\markers.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\js\respond-IE.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\js\third-party.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\sidebar-init.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\theme-actions.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\theme-comments.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\theme-functions.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\theme-install.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\theme-js.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\theme-options.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\theme-plugin-integrations.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\theme-widgets.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\theme-woocommerce.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\widgets\widget-woo-adspace.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\widgets\widget-woo-blogauthor.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\widgets\widget-woo-embed.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\widgets\widget-woo-flickr.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\widgets\widget-woo-search.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\includes\widgets\widget-woo-subscribe.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\index.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\lang\en_GB.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\lang\woothemes.pot" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\license.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\page.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\search-form.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\search.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\sidebar.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\single.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\style.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\style.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\styles\blue.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\styles\blue.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\styles\brown.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\styles\brown.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\styles\default.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\styles\green.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\styles\green.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\styles\grey.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\styles\grey.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\styles\indigo.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\styles\indigo.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\styles\red.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\styles\red.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\styles\violet.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\styles\violet.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\styles\yellow.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\styles\yellow.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\template-archives.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\template-blog.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\template-contact.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\template-fullwidth.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\template-imagegallery.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\template-sitemap.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\template-tags.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\template-timeline.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\theme_info.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\typefaces\icomoon.eot" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\typefaces\icomoon.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\typefaces\icomoon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\typefaces\icomoon.woff" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\typefaces\websymbols-regular-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\typefaces\websymbols-regular-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\typefaces\websymbols-regular-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="D:\Users\Mikkel\Google Drev\htdocs\dragonslair\wp\wp-content\themes\mystile\typefaces\websymbols-regular-webfont.woff" afterPath="" />
     </list>
     <ignored path="dragonslair.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,18 +394,7 @@
     <favorites_list name="dragonslair" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp/wp-content/themes/dragonslair/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7733333" vertical-offset="19" max-vertical-offset="561">
-              <caret line="25" column="56" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -56,10 +413,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -188,7 +545,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.lastSelected" value="preferences.lookFeel" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -208,8 +565,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="20" width="1346" height="688" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -217,7 +574,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -263,7 +620,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp/wp-content/themes/dragonslair/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7733333" vertical-offset="19" max-vertical-offset="561">
+        <state vertical-scroll-proportion="0.8095238" vertical-offset="0" max-vertical-offset="561">
           <caret line="25" column="56" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
           <folding />
         </state>
